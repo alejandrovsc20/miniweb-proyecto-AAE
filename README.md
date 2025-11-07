@@ -3,3 +3,5 @@ Este es el repositorio remoto del proyecto de Alejandro Rodríguez, Alejandro Ca
 ------------
 ## Miembros
 - Esther Fernández - Responsable de Desarrollo
+- Alejandro Castillo - Responsable de Documentacion 
+
